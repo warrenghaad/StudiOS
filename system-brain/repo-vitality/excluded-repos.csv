@@ -10,6 +10,6 @@ Content-Pipeline-And-reconciliation-Tool,"Empty, scaffold-only, or too little hi
 CurriculumBuilder_PENULTIMATE,"Empty, scaffold-only, or too little history to justify deeper audit",1 commits; meaningfulFiles=false; authors=warrenghaad,Maybe
 DatabaseS-UI,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
 Drawereward,"Empty, scaffold-only, or too little history to justify deeper audit",1 commits; meaningfulFiles=false; authors=warrenghaad,Maybe
-StudiOS,Current hub repo is documentation-first and not yet a functionality target,2 commits; meaningfulFiles=false; authors=warrenghaad; copilot-swe-agent[bot],Yes
+StudiOS,Current hub repo is documentation-first and not yet a functionality target,3 commits; meaningfulFiles=false; authors=warrenghaad; copilot-swe-agent[bot],Yes
 V5-artifactcanvas,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
 WSKP1,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes

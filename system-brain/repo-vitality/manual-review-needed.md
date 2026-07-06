@@ -40,7 +40,7 @@ These repos need a human decision before deeper functionality mapping is finaliz
 ## StudiOS
 
 - Reason: Current hub repo is documentation-first and not yet a functionality target
-- Evidence: 2 commits; meaningfulFiles=false; authors=warrenghaad; copilot-swe-agent[bot]
+- Evidence: 3 commits; meaningfulFiles=false; authors=warrenghaad; copilot-swe-agent[bot]
 - Notes: Private repo evaluated from the local clone only. Current history is documentation-heavy and not yet a deeper functionality-audit target.
 - Suggested next step: Confirm whether the repo should stay excluded.
 
