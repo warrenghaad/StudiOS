@@ -1,0 +1,33 @@
+owner:
+  - warrenghaad
+  - Sami
+  - smajeed3
+
+owner_emails:
+  - smajeed3@gmail.com
+  - 46694771-smajeed3@users.noreply.replit.com
+
+bots:
+  - github-actions[bot]
+  - dependabot[bot]
+  - copilot
+  - Copilot
+  - copilot-swe-agent[bot]
+  - web-flow
+  - GitHub
+  - replit
+  - Replit
+  - replit-agent
+  - Agent
+  - Deployment
+  - Cursor
+  - Claude
+  - claude
+  - OpenAI
+
+unknown:
+  - AgentMedia1942
+
+notes:
+  smajeed3: "Treated as a probable owner alias because multiple repo descriptions point to replit.com/@smajeed3 and many commits use smajeed3 as the author display name."
+  AgentMedia1942: "Seen in TripSpanishTutor commit history. Kept as unknown until reviewed manually."

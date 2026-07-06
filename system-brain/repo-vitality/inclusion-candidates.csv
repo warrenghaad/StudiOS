@@ -1,0 +1,12 @@
+Repo,Reason For Inclusion,Evidence,Priority,Next Audit Step
+ArtisanalCanvas,Meaningful source structure plus multi-commit history,57 commits; meaningfulFiles=true; authors=warrenghaad; claude; smajeed3,High,"Inspect repo structure, runtime entry points, and feature boundaries"
+Chord-Matrix-Musev2,Meaningful source structure plus multi-commit history,14 commits; meaningfulFiles=true; authors=replit-agent; smajeed3,Medium,Compare against related versioned repos before mapping functionality
+geometric-civilizations,Meaningful source structure plus multi-commit history,19 commits; meaningfulFiles=true; authors=warrenghaad; Copilot; claude,Medium,"Inspect repo structure, runtime entry points, and feature boundaries"
+Geometric-Math-Visualizer,Meaningful source structure plus multi-commit history,26 commits; meaningfulFiles=true; authors=replit-agent; smajeed3,High,"Inspect repo structure, runtime entry points, and feature boundaries"
+Harmony-Tutor,Meaningful source structure plus multi-commit history,19 commits; meaningfulFiles=true; authors=smajeed3,Medium,"Inspect repo structure, runtime entry points, and feature boundaries"
+HTML-CSS-JS-Static-1,Meaningful source structure plus multi-commit history,64 commits; meaningfulFiles=true; authors=warrenghaad; Copilot; smajeed3,High,"Inspect repo structure, runtime entry points, and feature boundaries"
+Inventive-Worlds,Meaningful source structure plus multi-commit history,5 commits; meaningfulFiles=true; authors=smajeed3,Low,"Inspect repo structure, runtime entry points, and feature boundaries"
+Music-tutor1,Meaningful source structure plus multi-commit history,34 commits; meaningfulFiles=true; authors=smajeed3,Medium,"Inspect repo structure, runtime entry points, and feature boundaries"
+MusicTutor,Meaningful source structure plus multi-commit history,70 commits; meaningfulFiles=true; authors=smajeed3,High,"Inspect repo structure, runtime entry points, and feature boundaries"
+TripSpanishTutor,Meaningful source structure plus multi-commit history,63 commits; meaningfulFiles=true; authors=warrenghaad; AgentMedia1942; smajeed3; Copilot,High,"Review author identity evidence, then inspect source structure"
+WKSP-1-Ingest-Graph-Review,Meaningful source structure plus multi-commit history,70 commits; meaningfulFiles=true; authors=smajeed3,High,"Inspect repo structure, runtime entry points, and feature boundaries"

@@ -1,0 +1,15 @@
+Repo,Reason For Exclusion,Evidence,Can Revisit Later
+Artifact-Research,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
+Artifact-Research-Timeline,"Empty, scaffold-only, or too little history to justify deeper audit",1 commits; meaningfulFiles=false; authors=warrenghaad,Maybe
+Artifact-Research-Timelinev1,"Empty, scaffold-only, or too little history to justify deeper audit",1 commits; meaningfulFiles=false; authors=warrenghaad,Maybe
+Artifact-Research-Timelinev3,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
+Artifactcanvas-drawer,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
+artifactv2,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
+Chord-Matrix-Muse,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
+Content-Pipeline-And-reconciliation-Tool,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
+CurriculumBuilder_PENULTIMATE,"Empty, scaffold-only, or too little history to justify deeper audit",1 commits; meaningfulFiles=false; authors=warrenghaad,Maybe
+DatabaseS-UI,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
+Drawereward,"Empty, scaffold-only, or too little history to justify deeper audit",1 commits; meaningfulFiles=false; authors=warrenghaad,Maybe
+StudiOS,Current hub repo is documentation-first and not yet a functionality target,2 commits; meaningfulFiles=false; authors=warrenghaad; copilot-swe-agent[bot],Yes
+V5-artifactcanvas,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
+WSKP1,"Empty, scaffold-only, or too little history to justify deeper audit",0 commits; meaningfulFiles=false; authors=none,Yes
